@@ -6,6 +6,7 @@ def numbers_and_strings():
     This is to review numbers and strings and basic operations.
     """
     # Assign a string "EE551" to a variable x
+    
     x = "EE551"
 
     # Assign a string "Stevens" to a variable y
@@ -30,6 +31,7 @@ def lists():
     """
     This is to review basic operations with lists.
     """
+    
     n = "Stevens is awesome"
 
     # Split variable n on a delimiter space into a list of substrings
@@ -71,6 +73,7 @@ def dictionaries():
     #   fruit => "apple"
     #   quantity => 4
     #   color => "green"
+    
     f = {'fruit':'apple', 'quantity':4 , 'color':'green'}
 
     # Get the item in dictionary f that the key "fruit" maps to
